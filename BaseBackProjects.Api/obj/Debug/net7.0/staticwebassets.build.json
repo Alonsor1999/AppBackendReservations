@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NlW1k/PMsjHoV6PE6ak4xSjnU16I5AtUP2r9DFlJikg=",
+  "Source": "BackendReservations.Api",
+  "BasePath": "_content/BackendReservations.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
